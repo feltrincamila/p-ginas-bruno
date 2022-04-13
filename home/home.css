@@ -1,0 +1,60 @@
+
+
+body{
+
+    background-color: rgb(230, 230, 230);
+
+    padding: 5px;
+
+    margin: 2px;
+
+}
+
+nav{
+    width: 20vw !important;
+}
+
+h1{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    color: rgb(3, 82, 114);
+
+    font-size: xx-large;
+
+    text-align: center;
+
+}
+
+p{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    font-size: large;
+
+    text-align: center;
+
+    color: rgb(0, 0, 0);
+
+}
+
+li{
+
+    text-align: start;
+
+    font-size: x-large;
+
+    color: deepskyblue;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.container{
+    width: 50vw;
+    padding: 3%;
+}
+.car{
+    margin: 0 50px 50px 0 ;
+}
+    
