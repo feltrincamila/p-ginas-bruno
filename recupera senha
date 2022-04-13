@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE-edge">
+<meta name="viewport" content="width=devide-width, initial-scale=1">
+<link rel="stylesheet" href="senha.css">
+<title> Recuperar Senha </title>
+
+ </head>
+<body>
+    <div class="use">
+<div class="container">
+    
+<h2 class="form-signin-heading text-center">Recuperação de Senha</h2>
+<label class="sr-only">Usuário:</label>
+<br>
+<input class="form-control" name="email" placeholder="Digite seu email" type="text">
+</div>
+<br>
+<div class="btn">
+<input class="btn btn-lg btn-verde btn-block" value="Recuperar" name="SendRecupSenha" type="submit">
+<br>
+<br>
+Lembrou?
+<br>
+<a href="#"><input class="btn btn-lg btn-verde btn-block" value="Clique aqui" name="SendRecupSenha" type="submit"></a>
+ </div></div>
+</div>
+</body>
+</html>
