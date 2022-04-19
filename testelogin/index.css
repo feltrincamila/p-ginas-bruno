@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+
+body{
+    margin: 0%;
+    background-color: rgb(233, 230, 215);
+    background-image: url(img/imagemteste.jpg);
+}
+h1{
+    color: rgb(4, 4, 46);
+     font-family: Fredoka;
+    text-align: center;
+}
+header{
+    background-color: rgb(233, 230, 215);
+}
+.form{
+    padding-top: 5rem;
+}
+
+footer {
+   font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    bottom: 0;
+    background-color: (233, 230, 215);
+    color: rgb(16, 49, 99);
+    width: 100%;
+    height: 90px;    
+    text-align: center;
+    line-height: 90px;
+    background-color: rgb(233, 230, 215);
+    font-size: x-small;
+}
+h2{
+    font-size: 7%;
+}
