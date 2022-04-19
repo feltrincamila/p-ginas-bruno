@@ -1,0 +1,25 @@
+
+
+body{
+    margin: 0%;
+    color: aliceblue;
+    background-image: url(img/teste.jpg);
+}
+div.class{
+    align-items: center;
+}
+h2{
+text-align: center;
+}
+h4{
+    text-align: center;
+}
+header{
+    background-color: rgb(233, 230, 215);
+}
+.form{
+    padding-top: 5rem;
+}
+.col-md-8 order-md-1{
+    color: aliceblue;
+}
